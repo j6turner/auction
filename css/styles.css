@@ -1,0 +1,26 @@
+h1 {
+  color: white;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 600;
+  padding-left: 15px;
+}
+
+h3 {
+  font-family: 'Glegoo', serif;
+}
+
+p {
+  font-family: 'Glegoo', serif;
+}
+
+ul li {
+  font-family: 'Glegoo', serif;
+  font-size: 75%;
+}
+
+.instruction {
+  font-style: italic;
+  color: gray;
+  font-size: 65%;
+  float: right;
+}
