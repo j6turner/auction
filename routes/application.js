@@ -1,1 +1,0 @@
-Auction = Ember.Application.create();
