@@ -3,4 +3,5 @@ Auction.Router.map(function() {
   this.resource('lots', { path: '/' });
   this.resource('lot');
   this.resource('register');
+  this.resource('contact');
 });
