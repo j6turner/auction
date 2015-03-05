@@ -7,7 +7,11 @@ h1 {
   color: #FFFFD6;
   font-family: 'Times', sans-serif;
   font-weight: 600;
-  padding-left: 15px;
+  padding: 0px 0px 0px 20px;
+}
+
+h2 {
+  text-align: center;
 }
 
 h3 {
@@ -18,9 +22,20 @@ p {
   font-family: 'Glegoo', serif;
 }
 
+#lot-image {
+  width: 300px;
+  height: 278px;
+  border: 1px solid #000000;
+  padding: auto;
+}
+
 ul li {
   font-family: 'Glegoo', serif;
   font-size: 75%;
+}
+
+ul.nav {
+  float: right;
 }
 
 .instruction {
@@ -28,4 +43,8 @@ ul li {
   color: gray;
   font-size: 65%;
   float: right;
+}
+
+.col-md-4 {
+  text-align: center;
 }
