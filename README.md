@@ -1,7 +1,7 @@
 Auction House
 =================
 
-Auction House is an auction catalogue that makes life easier for both the business executive and the enthusiastic collector. Featured is the upcoming auction for sculptures crafted by the exalted Carlos München.
+Auction House allows user to add lots and corresponding items for auction.
 
 Features include [Ember.js](http://emberjs.com), [JQuery](http://jquery.com/),
 and [Bootstrap](http://getbootstrap.com/).
