@@ -11,7 +11,7 @@ Usage
 -----
 
 First, download the project to the desktop. Open a terminal window
-and change the directory by entering `$ cd Desktop/bustle`.
+and change the directory by entering `$ cd Desktop/auction`.
 In order to run the app, start up a local web server.
 
 On Macs, enter `$ python -m SimpleHTTPServer` in the terminal
